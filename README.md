@@ -56,7 +56,6 @@ DEVELOPED BY :V RAKSHA DHARANIKA
 
 REGISTER NUMBER : 212223230167
 
-
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
